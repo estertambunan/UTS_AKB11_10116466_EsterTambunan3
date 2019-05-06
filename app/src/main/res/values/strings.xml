@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ErziHutamaApps</string>
+
+
+    // TODO: 22/02/18
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="galeri">Galeri</string>
+    <string name="favorite">Music</string>
+    <string name="profil">Profil</string>
+    <string name="follow">F O L L O W</string>
+    <string name="followers">27,292,282 Followers</string>
+    <string name="ceo">Ceo EsterApps</string>
+    <string name="about">ABOUT ESTER</string>
+    <string name="interest">Interest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="datadiri">Hello :) saya <b>Ester Tambunan </b>saya dari Bandung , saya seorang mahasiswa
+    dari jurusan teknik informatika. saya asli dari bekasi kuliah di bandung untuk mencari ilmu. cita - cita
+        saya ingin menjadi seorang Developer dan dapat membagikan ilmu saya ke banyak orang.
+        <b>ESTERAPPS</b> :).
+    </string>
+    <string name="Nohp">082114073785</string>
+    <string name="email">Estermuliani8@gmail.com</string>
+    <string name="instagram">Estermuliani_</string>
+    <string name="website">esterblog.esterhomeblog.com</string>
+    <string name="NO_INFORMATION" />
+    <string name="founder">CEO EsterAPPS</string>
+    <string name="Hobby">Hobby</string>
+    <string name="isihoby">Karena dengan design membuat saya berasa lebih hidup</string>
+    <string name="makes">Makes</string>
+    <string name="Design">Design</string>
+    <string name="code">Coding</string>
+    <string name="isicode">Dengan koding  membuat saya berfikir untuk cepat </string>
+    <string name="isiinterest">Ingin menjadi seorang developer expert</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="isiolahraga">Saya sangat suka semua olahraga</string>
+    <string name="cita">cita-cita</string>
+    <string name="isicita">Cita-cita saya ingin menjadi Developer  </string>
+    <string name="aktivity">AKTIVITAS</string>
+    <string name="ester_tambunan">Ester Tambunan</string>
+
+
+</resources>

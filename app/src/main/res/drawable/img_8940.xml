@@ -1,0 +1,19 @@
+<!-- drawable/img_8940.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="404dp"
+    android:height="227dp"
+    android:viewportWidth="404"
+    android:viewportHeight="227"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M113.5 0H290.5C353.184 0 404 50.8157 404 113.5C404 176.184 353.184 227 290.5 227H113.5C50.8157 227 0 176.184 0 113.5C0 50.8157 50.8157 0 113.5 0Z"
+            />
+
+    </group>
+
+</vector>
